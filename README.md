@@ -93,7 +93,9 @@ Provides insights into customer satisfaction and product quality.
 # Conclusion:
 The Nike Shoe Sales Insights Power BI Dashboard demonstrates how raw sales data can be transformed into clear, actionable business insights.
 This project reflects real-world data analyst workflows, combining data modeling, DAX calculations, and impactful visual storytelling.
-
+👤 Author
+Fardeen Naik
+Aspiring Data Analyst | Power BI 
 
 
 
